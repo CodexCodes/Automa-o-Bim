@@ -1,2 +1,2 @@
 # Automação Bim
-Um sistema que valida automaticamente projetos Revit contra normas técnicas.
+Sistema que valida automaticamente projetos Revit contra normas técnicas.
